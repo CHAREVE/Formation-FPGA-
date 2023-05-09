@@ -1,0 +1,50 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Error: erreur calcul
+Time: 120 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 130 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 140 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 150 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 290 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 300 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 310 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 320 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 460 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 470 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 480 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 490 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 630 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 640 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 650 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 660 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 800 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 810 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 820 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 830 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 970 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 980 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 990 ns  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd
+Error: erreur calcul
+Time: 1 us  Iteration: 0  Process: /testbench_full_subtractor/line__41  File: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/subtractor/subtractor.srcs/subtractor_tb/new/uut.vhd

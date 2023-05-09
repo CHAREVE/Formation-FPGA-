@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../full substractor/subtractor.vhd" \
+"../../../../subtractor.srcs/subtractor_tb/new/uut.vhd" \
+
+# Do not sort compile order
+nosort
