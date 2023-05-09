@@ -1,0 +1,14 @@
+* C:\Users\evech\OneDrive\Bureau\formation FPGA AVRIL 2023\test3.asc
+V1 V1 0 PULSE(5 0 0 10ns 10ns 1ms 2ms 0)
+V2 V2 0 PULSE(5 0 0 10ns 10ns 2ms 4ms 0)
+V3 P001 0 5v
+M2 P002 V2 out out NMOS
+M3 0 V2 out out PMOS
+M4 0 V1 out out PMOS
+M1 P001 V1 P002 P002 NMOS
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\evech\AppData\Local\LTspice\lib\cmp\standard.mos
+.tran 20ms
+.backanno
+.end

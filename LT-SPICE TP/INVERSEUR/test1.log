@@ -1,0 +1,22 @@
+Circuit: * C:\Users\evech\OneDrive\Bureau\formation FPGA AVRIL 2023\test1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Apr 27 18:34:39 2023
+Total elapsed time: 0.056 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4382
+traniter = 4377
+tranpoints = 1609
+accept = 1484
+rejected = 125
+matrix size = 9
+fillins = 0
+solver = Normal
+Avg thread counts: 1.2/1.6/1.6/1.2
+Matrix Compiler1:      22 opcodes  0.2/[0.1]/0.2
+Matrix Compiler2: off  [0.1]/0.2/0.2
+

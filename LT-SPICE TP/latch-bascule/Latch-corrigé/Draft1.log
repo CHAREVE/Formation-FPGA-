@@ -1,0 +1,10 @@
+Circuit: * C:\Users\laure\Desktop\Projets\DVR-008-001\DVR-008-001-git-ws\Supports techniques\LTspice\FPGAComponents\Latch\Draft1.asc
+
+WARNING: Less than two connections to node s.  This node is used by v1.
+WARNING: Less than two connections to node clr.  This node is used by v3.
+Direct Newton iteration for .op point succeeded.
+Changing Tseed to 3e-10
+Changing Tseed to 3e-12
+Changing Tseed to 3e-09
+Heightened Def Con from 0.000500004 ++++++++++++++++++++++++++++++++++++++++++++++++++Fatal Error: Analysis:  Time step too small; time = 0.000500004, timestep = 1.25e-19: trouble with dflop-instance a1
+
