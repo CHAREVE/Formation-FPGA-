@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon May  1 14:25:42 2023
+# Process ID: 20188
+# Current directory: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/project_1-full adder/project_1-full adder.runs/synth_1
+# Command line: vivado.exe -log full_adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source full_adder.tcl
+# Log file: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/project_1-full adder/project_1-full adder.runs/synth_1/full_adder.vds
+# Journal file: C:/Users/evech/OneDrive/Bureau/formation FPGA AVRIL 2023/projets- TP-TD/project_1-full adder/project_1-full adder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source full_adder.tcl -notrace
