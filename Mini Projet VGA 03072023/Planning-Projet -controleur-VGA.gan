@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="controleur_VGA" company="" webLink="http://" view-date="2023-06-08" view-index="0" gantt-divider-location="437" resource-divider-location="300" version="3.2.3230" locale="fr_FR">
+    <description>
+        <![CDATA[formation AJC]]>
+    </description>
+    <view zooming-state="default:0" id="gantt-chart">
+        <field id="tpd3" name="Nom" width="246" order="0"/>
+        <field id="tpd4" name="Date de début" width="64" order="1"/>
+        <field id="tpd5" name="Date de fin" width="59" order="2"/>
+        <field id="tpc0" name="Ajouter une colonne personnalisée" width="67" order="3"/>
+        <option id="filter.completedTasks" value="false"/>
+        <timeline>
+            <![CDATA[0]]>
+        </timeline>
+        <option id="color.recent">
+            <![CDATA[#009999 #66ff66 #009933 #ffcc00 #f4f4f4 #cc99ff #33ffcc #ff3333 #9933ff #660099]]>
+        </option>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nom" width="210" order="0"/>
+        <field id="1" name="Rôle par défaut" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+            <taskproperty id="tpc0" name="Ajouter une colonne personnalisée" type="custom" valuetype="text" defaultvalue=""/>
+        </taskproperties>
+        <task id="9" name="debut et fin de projet" color="#ffff00" meeting="false" start="2023-06-09" duration="17" complete="0" thirdDate="2023-06-09" thirdDate-constraint="0" priority="3" expand="true"/>
+        <task id="13" name="Planning" color="#cc99ff" meeting="false" start="2023-06-09" duration="4" complete="0" thirdDate="2023-06-09" thirdDate-constraint="0" expand="true">
+            <task id="0" name="Etude de la  faisabilité" color="#9933ff" shape="1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1" meeting="false" start="2023-06-09" duration="4" complete="1" thirdDate="2023-06-14" thirdDate-constraint="0" priority="2" expand="true">
+                <notes>
+                    <![CDATA[ressources?
+spec? 
+compréhension du besoin
+notion de delai et temps ]]>
+                </notes>
+            </task>
+            <task id="1" name="Installation environnement de travail" color="#6633ff" shape="0,1,0,1,0,0,1,0,0,1,0,1,1,0,0,0" meeting="false" start="2023-06-13" duration="2" complete="0" thirdDate="2023-06-09" thirdDate-constraint="0" expand="true"/>
+            <task id="14" name="Revue de planification" color="#ffcc00" meeting="true" start="2023-06-13" duration="0" complete="0" thirdDate="2023-06-09" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="10" name="Conception" color="#009933" meeting="false" start="2023-06-13" duration="7" complete="0" thirdDate="2023-06-13" thirdDate-constraint="0" expand="true">
+            <task id="2" name="Recherche des cores RGB ou VGA déjà développés" color="#66ff66" shape="1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0" meeting="false" start="2023-06-13" duration="6" complete="0" thirdDate="2023-06-09" thirdDate-constraint="0" expand="true"/>
+            <task id="18" name="capture d’exigence" color="#009933" meeting="false" start="2023-06-13" duration="4" complete="0" thirdDate="2023-06-08" thirdDate-constraint="0" expand="true"/>
+            <task id="20" name="conception générale" color="#009999" shape="1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1" meeting="false" start="2023-06-16" duration="2" complete="0" thirdDate="2023-06-08" thirdDate-constraint="0" expand="true"/>
+            <task id="19" name="conception détaillée" color="#009999" shape="1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1" meeting="false" start="2023-06-20" duration="2" complete="0" thirdDate="2023-06-08" thirdDate-constraint="0" expand="true"/>
+            <task id="5" name="Faire un schéma RTL" color="#66ff66" shape="1,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1" meeting="false" start="2023-06-14" duration="5" complete="0" thirdDate="2023-06-09" thirdDate-constraint="0" priority="2" expand="true"/>
+            <task id="3" name="Etudier et comparer avec notre spec" color="#66ff66" shape="1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0" meeting="false" start="2023-06-14" duration="5" complete="0" thirdDate="2023-06-09" thirdDate-constraint="0" expand="true"/>
+            <task id="15" name="Revue de conception" color="#ffcc00" meeting="true" start="2023-06-20" duration="0" complete="0" thirdDate="2023-06-08" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="11" name="Implementation" color="#ff3333" meeting="false" start="2023-06-22" duration="4" complete="0" thirdDate="2023-06-22" thirdDate-constraint="0" expand="true">
+            <task id="6" name="Ecriture du code VHDL de  chaque bloc RTL" color="#ff3333" shape="0,0,0,0,1,1,1,1,0,0,0,0,1,1,1,1" meeting="false" start="2023-06-22" duration="4" complete="0" thirdDate="2023-06-09" thirdDate-constraint="0" expand="true"/>
+        </task>
+        <task id="12" name="Validation" color="#009999" meeting="false" start="2023-06-22" duration="11" complete="0" thirdDate="2023-06-22" thirdDate-constraint="0" expand="true">
+            <task id="7" name="Intégration du FPGA avec le LCD" color="#99ffff" shape="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" meeting="false" start="2023-06-22" duration="4" complete="0" thirdDate="2023-06-09" thirdDate-constraint="0" expand="true"/>
+            <task id="8" name="Validation générale du projet FPGA avec le LCD" color="#33ffcc" shape="0,0,0,0,1,1,1,1,0,0,0,0,1,1,1,1" meeting="false" start="2023-06-27" duration="4" complete="0" thirdDate="2023-06-09" thirdDate-constraint="0" expand="true"/>
+            <task id="16" name="Revue de V&amp; V" color="#ffcc00" meeting="true" start="2023-06-27" duration="0" complete="0" thirdDate="2023-06-08" thirdDate-constraint="0" expand="true"/>
+            <task id="17" name="Revue finale" color="#ffcc00" meeting="true" start="2023-07-07" duration="0" complete="0" thirdDate="2023-06-08" thirdDate-constraint="0" expand="true"/>
+        </task>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+    <roles roleset-name="SoftwareDevelopment"/>
+</project>
