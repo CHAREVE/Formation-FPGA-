@@ -1,7 +1,7 @@
 
----------- Présentation rapide ------------------  
+---------- Présentation générale ------------------  
 
-Formation intensive ingénieur électronique FPGA avec AJC Formation
+Formation intensive ingénieur électronique FPGA avec AJC Formation (400H)
 
 
 • Début du projet : Avr 2023 / Fin du projet 18 Juillet 2023
